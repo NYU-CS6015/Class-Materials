@@ -39,3 +39,40 @@ This course makes use of software engineering concepts to introduce practical we
 - Provide you with fundamental skills to help you learn new web application tools and frameworks more quickly.
 
 ---
+
+#### Course Structure
+
+In addition to lectures, students will be assigned weekly programming assignments and a semester-long project.
+
+---
+
+#### Readings
+
+There are no required textbooks for this class.
+
+---
+
+#### Course requirements
+
+You are expected to do all assignments, attend and participate in class. Grading policy is the following:
+
+*Programming assignments: 10%*
+
+*Class participation: 15%*
+
+*In-class hackathon: 5%*
+
+*Semester-long project: 40%*
+
+*Final presentation: 30%*
+
+---
+
+#### Participation
+
+You are encouraged to ask as questions. While some people will enjoy asking questions out loud, others might feel more comfortable asking questions via messaging platform. I will be monitoring a Slack (nyu.slack.com) #cs6015 channel during each lecture.
+
+
+At the beginning of each lecture, I will pick one person’s programming assignment code, and will ask one random student to explain what it does. The idea behind this is to develop important skill of working with others’ code.
+
+---
