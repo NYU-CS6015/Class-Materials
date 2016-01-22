@@ -79,7 +79,7 @@ At the beginning of each lecture, I will pick one person’s programming assignm
 
 #### Programming Assignments
 
-There will be 10 programming assignments. Each of them counts as 1% towards the programming assignment grade. 
+There will be 11 programming assignments. Lowest programming assignment grade will be dropped. Each of them counts as 1% towards the programming assignment grade.
 
 
 I will cover fundamental concepts and practical implementation examples in class that will directly relate to the upcoming assignments. Programming assignments will be graded based on the programming style covered in class.
@@ -133,28 +133,28 @@ All work you submit must be your own. In order to ensure this policy and your un
 | | Programming assignment 4 due |
 | | Programming assignment 5 given |
 | Mar 7 | **Databases** |
-| | Programming assignment 4 due |
-| | Programming assignment 5 given |
+| | Programming assignment 5 due |
+| | Programming assignment 6 given |
 | Mar 14 | **Spring Recess** |
 | | *No classes scheduled* |
 | Mar 21 | **Object-relational Mapping (ORM)** |
-| | Programming assignment 5 due |
-| | Programming assignment 6 given |
-| Mar 28 | **User Interfaces (UI)** |
 | | Programming assignment 6 due |
 | | Programming assignment 7 given |
-| Apr 4 | **Forms & Requests** |
+| Mar 28 | **User Interfaces (UI)** |
 | | Programming assignment 7 due |
 | | Programming assignment 8 given |
-| Apr 11 | **In-class Hackathon** |
+| Apr 4 | **Forms & Requests** |
 | | Programming assignment 8 due |
-| Apr 18 | **Unit Testing** |
 | | Programming assignment 9 given |
-| Apr 25 | **Application Interfaces** |
+| Apr 11 | **In-class Hackathon** |
 | | Programming assignment 9 due |
+| Apr 18 | **Unit Testing** |
 | | Programming assignment 10 given |
-| May 2 | **Final Project Check-in & Review** |
+| Apr 25 | **Application Interfaces** |
 | | Programming assignment 10 due |
+| | Programming assignment 11 given |
+| May 2 | **Final Project Check-in & Review** |
+| | Programming assignment 11 due |
 | May 9 | **Final Project Presentation** |
 
 ---
