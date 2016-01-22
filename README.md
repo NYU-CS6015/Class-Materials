@@ -10,8 +10,7 @@ Mondays 6-7:30pm; Rogers Hall, RH 704
 
 ---
 
-
-### Contact Information
+#### Contact Information
 
 Email: arogozin@nyu.edu
 
@@ -21,3 +20,8 @@ Office hours: After class or by appointment
 
 ---
 
+#### Course Pre-requisites
+
+Programming experience with an object-orientated language is required. Basic knowledge of any web development scripting language is highly recommended. You must feel comfortable programming in at least one of the following languages: Python, C++, Java, PHP, JavaScript.
+
+---
