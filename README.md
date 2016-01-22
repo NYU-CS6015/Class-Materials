@@ -9,3 +9,15 @@ Aleksandr Rogozin
 Mondays 6-7:30pm; Rogers Hall, RH 704
 
 ---
+
+
+### Contact Information
+
+Email: arogozin@nyu.edu
+
+Phone: (646) 997-3578
+
+Office hours: After class or by appointment
+
+---
+
